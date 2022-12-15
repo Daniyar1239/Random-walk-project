@@ -1,5 +1,5 @@
 # Random-walk-project
-Random walk in x8086 Assembly language
+## Random walk in x8086 Assembly language
 
 
 The random walk program is written in x8086 Assembly language two generate random steps (either increased or decreased by 1) in x- and y-axis. The user can specify the number of random steps to perform.
